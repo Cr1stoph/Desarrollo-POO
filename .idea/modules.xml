@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desarrollo-POO.iml" filepath="$PROJECT_DIR$/Desarrollo-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstitutoRegistro/InstitutoRegistro.iml" filepath="$PROJECT_DIR$/InstitutoRegistro/InstitutoRegistro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyectos_java/Pizzeria/Pizzeria.iml" filepath="$PROJECT_DIR$/Proyectos_java/Pizzeria/Pizzeria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegistroAlumno/RegistroAlumno.iml" filepath="$PROJECT_DIR$/RegistroAlumno/RegistroAlumno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegistroEstudiantes/RegistroEstudiantes.iml" filepath="$PROJECT_DIR$/RegistroEstudiantes/RegistroEstudiantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyectos_java/compraenlinea/compraenlinea.iml" filepath="$PROJECT_DIR$/Proyectos_java/compraenlinea/compraenlinea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica_proyect/practica_proyect.iml" filepath="$PROJECT_DIR$/practica_proyect/practica_proyect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tallermecanico/tallermecanico.iml" filepath="$PROJECT_DIR$/tallermecanico/tallermecanico.iml" />
+    </modules>
+  </component>
+</project>
