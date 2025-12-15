@@ -17,7 +17,7 @@ public class Mazodecartas4 {
             System.out.print("Opcion: "); 
             opcion = Integer.parseInt(sc.nextLine()); 
             
-            if(opcion == 1){ 
+            if(opcion == 1) { 
                 System.out.println("  a) Habilidad"); 
                 System.out.println("  b) Criatura"); 
                 System.out.print("Tipo (a/b): "); 
@@ -27,6 +27,7 @@ public class Mazodecartas4 {
                     DeHabilidad h = new DeHabilidad(); 
                     System.out.print("Codigo: "); 
                     h.setCodigo(sc.nextLine()); 
+                    
                     System.out.print("Nombre: "); 
                     h.setNombre(sc.nextLine()); 
                     System.out.print("Ataque: "); 
@@ -59,9 +60,7 @@ public class Mazodecartas4 {
                     c.setHabilidadPasiva(sc.nextLine()); 
                     gestor.agregarCarta(c); 
                 }
-                
                 gestor.listar(); 
-            
             } else if(opcion==2){ 
                 gestor.aplicarAumentoMazo(); 
                 gestor.listar(); 

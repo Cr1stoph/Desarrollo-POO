@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/Registroinstituto.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/Estudiante.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/Asignatura.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/Docente.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/Sede.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaMenuWhile.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaNotasPromedio.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaEdadRango.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaDocenteDatos.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaEstudianteDatos.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaNotasPromedioConAsignatura.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaEdadConEstudiante.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaDocenteDatosconAsignatura.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaSedeDatos.java</file>
+            <file>file:/C:/Users/Erwin/Desktop/proyectos_java/Registroinstituto/src/registroinstituto/islas/IslaDocente_ValidaFechaConRegistro.java</file>
+        </group>
+    </open-files>
+</project-private>

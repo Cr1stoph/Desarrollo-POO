@@ -1,0 +1,20 @@
+
+package airbnbpet;
+
+public class AirbnbPet {
+
+
+    public static void main(String[] args) {
+    AlmacenMascotas lista = new AlmacenMascotas();
+    lista.agregarMascota(new Perro(4, "p_1", "Paila", 15, 4, 6, true));
+    lista.agregarMascota(new Perro(2, "p_2", "Jhonny", 9, 8, 7, false));
+    lista.agregarMascota(new Perro(1, "p_3", "Chiki", 8, 3, 6, false));
+    lista.agregarMascota(new Gato(1, "g_1", "Miau", 3.4,6, 2, true));
+    lista.agregarMascota(new Gato(1, "g_2", "Gato_Con_Botas", 3.4,6, 2, false));
+    lista.agregarMascota(new Conejo("Pelets", "c_1", "Kimona", 4, 1, 6, true));
+    lista.agregarMascota(new Conejo("Heno", "c_2", "Eli", 2, 3, 4, true));
+    lista.contarMascotas();
+    lista.listarMascotas();
+    }
+    
+}
